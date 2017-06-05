@@ -1,3 +1,6 @@
+body {
+    background-color: purple;
+}
 *{
     box-sizing: border-box;
     margin:0;
